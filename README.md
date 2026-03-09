@@ -23,9 +23,29 @@ o projeto será realizado em duas etapas:
 
 ##2. equipamentos ultilizados naste laboratório
 
--3 notebooks
--1 roteador wireless com 1 porta Wan e 4 portas Lam
--1 impressora de rede
+- 3 notebooks
+- 1 roteador wireless com 1 porta Wan e 4 portas Lam
+- 1 impressora de rede
 - cabos de rede
+
+  ---
+
+  ## 3 topologia da rede
+  diagrama lógico da rede ultilizada neste laboratório:
+
+```mermaid
+graph TD
+
+ WAN[Internet / WAN do provedor]
+ 
+router[roteador Wireless<br>1 porta WAN<br>4 portas LAN]
+PC1[NOTEBOOK 1]
+PC2[NOTEBOOK 2]
+PC2[NOTEBOOK 3]
+
+Printer[ Impressora de rede]
+
+
+```
 
 
