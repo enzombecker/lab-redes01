@@ -72,7 +72,7 @@ Gateway: 192.168.0.1
 | PC2 | DHCP | Automático | IP atribuido pelo roteador |
 | PC3 | DHCP | Automático | IP atribuido pelo roteador |
 
-** observação **
+**Observação**
 
 - A impresssora e uma dos utilizam reserva DHCP
 - O rotiador sempre atribui o mesmo endereço IP a esses dispositivos
